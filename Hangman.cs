@@ -152,7 +152,7 @@
                         {
                             goto poczatek;
                         }
-                       
+                      //meh 
                     }
                     break;
 
